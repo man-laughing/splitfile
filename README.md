@@ -1,9 +1,8 @@
-# splitfile
- This is a small program may be useful.It can help you split a large file.
+# Splitfile
+  This small program can help you cut the big file, perhaps very useful.
 
 
-
-## usage
+## Usage
 
 ```
 usage: splitfile.py [-h][-f FILE] [-b SIZE][-o OUTDIR]
