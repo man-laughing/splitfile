@@ -2,6 +2,11 @@
   This small program can help you cut the big file, perhaps very useful.
 
 
+## Require
+ - Python 2.7.x
+ - Python Queue module
+ 
+
 ## Usage
 
 ```
