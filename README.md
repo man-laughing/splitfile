@@ -1,5 +1,5 @@
 # splitfile
- This is small program may be useful.It can help you split a large file.
+ This is a small program may be useful.It can help you split a large file.
 
 
 
@@ -16,7 +16,6 @@ optional arguments:
   -o OUTDIR   Specify the output directory.(default:/tmp/)
 
 '''
-
 
 
 
