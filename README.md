@@ -3,6 +3,7 @@
 
 
 ## Require
+ - Linux operating environment
  - Python 2.7.x
  - Python Queue module
  
